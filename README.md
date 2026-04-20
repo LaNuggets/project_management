@@ -15,13 +15,6 @@
 
 Déploiement d'un assistant IA pour automatiser les tâches à faible valeur ajoutée, améliorer la prise de décision et optimiser la relation client dans une entreprise de services.
 
-## Documentation
-
-| Section | Fichier |
-|---|---|
-| Parties prenantes | [docs/03-parties-prenantes.md](docs/03-parties-prenantes.md) |
-| Organisation Scrum | [docs/07-organisation-scrum.md](docs/07-organisation-scrum.md) |
-
 ## Suivi du projet
 
 - **Issues (User Stories)** : [US-1 à US-10](../../issues)
